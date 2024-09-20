@@ -12,14 +12,12 @@ What's the version of Pandas that you installed?
 You can get the version information using the `__version__` field:
 
 ```
-
 $ python
 Python 3.11.9 (main, Apr 19 2024, 16:48:06) [GCC 11.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import pandas as pd
 >>> pd.__version__
 '2.2.2'
-
 ```
 
 ### Getting the data 
