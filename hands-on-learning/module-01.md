@@ -124,8 +124,9 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
     ```
     wget https://github.com/docker/compose/releases/download/v2.29.7/docker-compose-linux-x86_64
     ```
+    ```
     chmnod +x docker-compose
-
+    ```
 
     **Login using Visual Studio Code (code) via Linux**
 
