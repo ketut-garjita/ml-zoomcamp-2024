@@ -24,6 +24,7 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
 
 ### Cloud (AWS)
 - [Creating an AWS account](https://mlbookcamp.com/article/aws)
+  
 - [Renting an ec2 instance](https://mlbookcamp.com/article/aws-ec2)
 
   <img width="140" alt="image" src="https://github.com/user-attachments/assets/7fbde986-a0b3-4500-b182-65d508b3126a">
