@@ -27,13 +27,46 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
   
 - [Renting an ec2 instance](https://mlbookcamp.com/article/aws-ec2)
 
-  <img width="140" alt="image" src="https://github.com/user-attachments/assets/7fbde986-a0b3-4500-b182-65d508b3126a">
 
+  **Setup**
+  
+  <img width="140" alt="image" src="https://github.com/user-attachments/assets/7fbde986-a0b3-4500-b182-65d508b3126a">
+  
   <img width="301" alt="image" src="https://github.com/user-attachments/assets/5d303557-207f-4a0e-8353-ddd4b972fe51">
 
-  ![image](https://github.com/user-attachments/assets/c8fc2841-9845-4a50-9ad4-d627c3863c1d)
+  <img width="475" alt="image" src="https://github.com/user-attachments/assets/5c1e4fe4-d983-462c-83a8-d85260bdeb8f">
+
+  <img width="506" alt="image" src="https://github.com/user-attachments/assets/2dbb08fe-08cd-4c0b-8d5a-e372a9751724">
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/eb8488df-bbfc-4c47-ab42-5816c79d8269">
+
+  <img width="499" alt="image" src="https://github.com/user-attachments/assets/e782de3c-7046-4959-8b78-26fa9968ac89">
+
+  <img width="387" alt="image" src="https://github.com/user-attachments/assets/56c3be95-dbab-41af-8cf7-a733ce9d4210">
+
+  <img width="387" alt="image" src="https://github.com/user-attachments/assets/340e1cf4-c620-4a78-bbc1-92652d9f00de">
+
+  <img width="503" alt="image" src="https://github.com/user-attachments/assets/c46a0354-749f-43e0-90a0-b9f03eaaf603">
+
+  <img width="509" alt="image" src="https://github.com/user-attachments/assets/5910d146-d2de-4d55-a708-5fec472d2d6f">
+
+  <img width="235" alt="image" src="https://github.com/user-attachments/assets/23b39df2-2f46-4bf9-8083-d76f935de16d">
+
+
+  **Instance Status & Summary**
+
+  <img width="674" alt="image" src="https://github.com/user-attachments/assets/0aa57877-bed1-42d4-ba4a-6470614f8467">
+
+  <img width="529" alt="image" src="https://github.com/user-attachments/assets/55430d9c-0b50-4ef4-8875-556d122f8954">
 
   
-  <img width="674" alt="image" src="https://github.com/user-attachments/assets/695b90cc-d677-45f1-a92b-8e2575731ee7">
+
+
+
+  
+
+  
+
+
   
 
