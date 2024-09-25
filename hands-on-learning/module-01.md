@@ -75,7 +75,8 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
  
     Note: HostName will change when instance restart
 
-   **Login to EC2 Instance Servers**
+
+  **Login to EC2 Instance Server**
   
     ``` 	
     ssh ml-zoomcamp
@@ -83,7 +84,28 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
     
     <img width="529" alt="image" src="https://github.com/user-attachments/assets/b9281ad5-9568-4c67-8755-9648e668a26c">
 
-    
+
+  **Clone machine-learning-zoomcamp repository**
+
+  <img width="296" alt="image" src="https://github.com/user-attachments/assets/da1b3a42-61d3-4e45-9272-eded6692427b">
+
+  ```
+  git clone https://github.com/DataTalksClub/machine-learning-zoomcamp.git
+  ```
+
+  **Install Anaconda3 in EC2 Instance Server**
+
+    https://www.anaconda.com/download/success
+  
+    <img width="218" alt="image" src="https://github.com/user-attachments/assets/b4aac9fe-e47e-4092-b153-a24a72fa4b7d">
+  
+    ```
+    wget https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Linux-x86_64.sh
+
+    bash Anaconda3-2024.06-1-Linux-x86_64.sh
+    ```
+
+  **Install Docker
 
 
  	
