@@ -54,14 +54,18 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
   <img width="521" alt="image" src="https://github.com/user-attachments/assets/1c29cfd4-ff03-4626-83a9-620992adb1a2">
 
   - Copy key to ~/.ssh
-
+ 
     <img width="448" alt="image" src="https://github.com/user-attachments/assets/5e7c5982-4069-47d1-a56f-a2582de34ede">
 
   - Make config file
+ 
+    Use Public IPv4 address
+    
     ``
     cd ~/.ssh
     vi coonfig
     ``
+
     ``
       Host ml-zoomcamp
 	    HostName 108.137.91.254
@@ -69,10 +73,23 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
 	    IdentityFile /home/hduser/.ssh/ml-zoomcamp-gar-key.pem
 	    StrictHostKeyChecking no
     ``
-
+ 
     Note: HostName will change when instance restart
+ 
+    `` 	
+    ssh ml-zoomcamp
+    ``
+     
+    <img width="529" alt="image" src="https://github.com/user-attachments/assets/b9281ad5-9568-4c67-8755-9648e668a26c">
 
-    <img width="529" alt="image" src="https://github.com/user-attachments/assets/8398996e-fadf-4a4a-b684-dbd7e70f3929">
+    
+
+
+ 	
+    
+
+    
+    
 
     
 
