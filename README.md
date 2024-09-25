@@ -7,4 +7,4 @@ Machine Learning Zoomcamp 2024 Training
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/01-intro/homework.md)
   - [Form for Submitting](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw01)
-  - [Answer/Solution]()
+  - [Answer/Solution](https://github.com/garjita63/ml-zoomcamp-2024/blob/main/homework/homework-01.ipynb)
