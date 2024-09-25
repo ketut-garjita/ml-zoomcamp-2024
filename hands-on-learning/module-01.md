@@ -49,7 +49,7 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
   <img width="529" alt="image" src="https://github.com/user-attachments/assets/55430d9c-0b50-4ef4-8875-556d122f8954">
 
   
-  **Login to Instance Server**
+  **Configure EC2 nstance Server in Linux**  
 
   <img width="521" alt="image" src="https://github.com/user-attachments/assets/1c29cfd4-ff03-4626-83a9-620992adb1a2">
 
@@ -74,7 +74,9 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
      ```
  
     Note: HostName will change when instance restart
- 
+
+   **Login to EC2 Instance Servers**
+  
     ``` 	
     ssh ml-zoomcamp
     ```
