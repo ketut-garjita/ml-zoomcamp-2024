@@ -1,5 +1,5 @@
 ## Setting up the Environment
-**https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/01-intro/06-environment.md**
+_Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/01-intro/06-environment.md**
 
 ### Linux
 - VMWare
