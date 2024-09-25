@@ -98,6 +98,8 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
     https://www.anaconda.com/download/success
   
     <img width="218" alt="image" src="https://github.com/user-attachments/assets/b4aac9fe-e47e-4092-b153-a24a72fa4b7d">
+
+    Copy link
   
     ```
     wget https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Linux-x86_64.sh
@@ -105,7 +107,49 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
     bash Anaconda3-2024.06-1-Linux-x86_64.sh
     ```
 
-  **Install Docker
+  **Install docker-compose**
+  
+    ```
+    mkdir soft
+    cd soft
+    ```   
+    Open browser
+  
+    https://github.com/docker/compose/releases
+  
+    <img width="508" alt="image" src="https://github.com/user-attachments/assets/0cb73ba8-b02b-4c09-ba7a-723074b8a3c6">
+  
+    Copy link
+  
+    ```
+    wget https://github.com/docker/compose/releases/download/v2.29.7/docker-compose-linux-x86_64
+    ```
+    chmnod +x docker-compose
+
+
+    **Login using Visual Studio Code (code) via Linux**
+
+    ```
+    which code
+    code
+    ```
+
+    <img width="178" alt="image" src="https://github.com/user-attachments/assets/eed48fcd-3f00-4c3d-a036-8f6cbbfb7279">
+
+    <img width="293" alt="image" src="https://github.com/user-attachments/assets/948dd97b-fcbd-4628-8392-732deca9b455">
+
+    <img width="212" alt="image" src="https://github.com/user-attachments/assets/2e16a72e-86cb-4ef1-b405-a2f8bfa4f1a1">
+
+    <img width="384" alt="image" src="https://github.com/user-attachments/assets/6f899e2f-8940-4922-a6d0-1d8403ac0e81">
+
+    
+
+
+
+
+
+  
+  
 
 
  	
