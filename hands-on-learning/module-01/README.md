@@ -67,10 +67,10 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
     ```
     ```
       Host ml-zoomcamp
-      HostName 108.137.91.254
-      User ubuntu
-      IdentityFile /home/hduser/.ssh/ml-zoomcamp-gar-key.pem
-      StrictHostKeyChecking no
+        HostName 108.137.91.254
+        User ubuntu
+        IdentityFile /home/hduser/.ssh/ml-zoomcamp-gar-key.pem
+        StrictHostKeyChecking no
      ```
  
     Note: HostName will change when instance restart
@@ -142,29 +142,5 @@ _Source_ : **https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/mas
     <img width="212" alt="image" src="https://github.com/user-attachments/assets/2e16a72e-86cb-4ef1-b405-a2f8bfa4f1a1">
 
     <img width="384" alt="image" src="https://github.com/user-attachments/assets/6f899e2f-8940-4922-a6d0-1d8403ac0e81">
-
+	
     
-
-
-
-
-
-  
-  
-
-
- 	
-    
-
-    
-    
-
-    
-
-  
-
-  
-
-
-  
-
