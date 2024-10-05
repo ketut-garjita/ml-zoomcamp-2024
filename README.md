@@ -6,7 +6,7 @@ Machine Learning Zoomcamp 2024 Training
 - [Hands-on Learning](https://github.com/garjita63/ml-zoomcamp-2024/tree/main/hands-on-learning/module-01)
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/01-intro/homework.md)
-  - [Form for Submitting](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw01)
+  - [Form for Submitting]()
   - [Answer/Solution](https://github.com/garjita63/ml-zoomcamp-2024/blob/main/homework/homework-01.ipynb)
     
 ### Module 2 : Machine Learning for Regression
