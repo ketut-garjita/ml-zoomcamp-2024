@@ -1,5 +1,5 @@
 # ML Zoomcamp 2024
-Machine Learning Zoomcamp 2024 Training
+_Machine Learning Zoomcamp 2024 Training_
 
 ### Module 1 : Introduction to Machine Learning
 - [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro)
