@@ -7,7 +7,7 @@ Machine Learning Zoomcamp 2024 Training
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/01-intro/homework.md)
   - [My Answer](https://github.com/garjita63/ml-zoomcamp-2024/blob/main/homework/homework-01.ipynb)
-  - {DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw01)
+  - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw01)
   - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/01-intro/homework_1.ipynb)
     
 ### Module 2 : Machine Learning for Regression
