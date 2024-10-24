@@ -1,6 +1,8 @@
 # ML Zoomcamp 2024
 _Machine Learning Zoomcamp 2024 Training_
 
+[cohorts 2024](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024)
+
 ### Module 1 : Introduction to Machine Learning
 - [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro)
 - [Hands-on Learning](https://github.com/garjita63/ml-zoomcamp-2024/tree/main/hands-on-learning/module-01)
