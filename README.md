@@ -17,7 +17,7 @@ _Machine Learning Zoomcamp 2024 Training_
 - [Hands-on Learning](https://github.com/garjita63/ml-zoomcamp-2024/blob/main/hands-on-learning/module-02/02-carprice.ipynb)
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/02-regression/homework.md)
-  - [My Solution Code](https://colab.research.google.com/drive/1bhj9ssSoT1x8UBO321jPBQPCPI-jxIGz?usp=drive_link)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/6f328a7f643e08a7fe9669d35ab838103fcb2c71/homework/homework-02.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw02)
   - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/02-regression/homework.ipynb)
 
@@ -26,7 +26,7 @@ _Machine Learning Zoomcamp 2024 Training_
 - [Hands-on Learning]()
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/03-classification/homework.md)
-  - [My Solution Code](https://colab.research.google.com/drive/1bhj9ssSoT1x8UBO321jPBQPCPI-jxIGz?usp=drive_link)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/6f328a7f643e08a7fe9669d35ab838103fcb2c71/homework/homework-03.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw03)
   - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/03-classification/homework_3.ipynb)
 
@@ -35,7 +35,7 @@ _Machine Learning Zoomcamp 2024 Training_
 - [Hands-on Learning]()
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/04-evaluation/homework.md)
-  - [My Solution Code](https://colab.research.google.com/drive/1VnBoMlL0GHkOkk6-5rYBdIi2vxwCCwAf?authuser=1#scrollTo=e9a01cc6-c70b-4300-b2b6-2dd64c939f95)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/6f328a7f643e08a7fe9669d35ab838103fcb2c71/homework/homework-04.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw04)
   - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/04-evaluation/homework.ipynb)
 
@@ -44,6 +44,6 @@ _Machine Learning Zoomcamp 2024 Training_
 - [Hands-on Learning]()
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/05-deployment/homework.md)
-  - [My Solution Code](https://drive.google.com/file/d/1v-VNtSk7DhrUBS1qvJqPQyxlOWLf2CS0/view?usp=sharing)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/6f328a7f643e08a7fe9669d35ab838103fcb2c71/homework/homework-05.ipynb)
   - [DTC Solution]()
   - [DTC Solution Code]()
