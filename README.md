@@ -44,6 +44,6 @@ _Machine Learning Zoomcamp 2024 Training_
 - [Hands-on Learning]()
 - Howework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/05-deployment/homework.md)
-  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/6f328a7f643e08a7fe9669d35ab838103fcb2c71/homework/homework-05.ipynb)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/e02ccd84cab9ae614478ccc9421d58aedb635987/homework/homework-05.ipynb)
   - [DTC Solution]()
   - [DTC Solution Code]()
