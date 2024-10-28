@@ -39,3 +39,11 @@ _Machine Learning Zoomcamp 2024 Training_
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw04)
   - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/04-evaluation/homework.ipynb)
 
+### Module 5 : Deploying Machine Learning Models
+- [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/05-deployment)
+- [Hands-on Learning]()
+- Howework
+  - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/05-deployment/homework.md)
+  - [My Solution Code](https://drive.google.com/file/d/1v-VNtSk7DhrUBS1qvJqPQyxlOWLf2CS0/view?usp=sharing)
+  - [DTC Solution]()
+  - [DTC Solution Code]()
