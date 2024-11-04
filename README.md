@@ -47,3 +47,12 @@ _Machine Learning Zoomcamp 2024 Training_
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/e02ccd84cab9ae614478ccc9421d58aedb635987/homework/homework-05.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw05)
   - [DTC Solution Code]()
+
+### Module 6 : Decision Trees and Ensemble Learning
+- [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/06-trees)
+- [Hands-on Learning]()
+- Howework
+  - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/06-trees/homework.md)
+  - [My Solution Code]()
+  - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw05)
+  - [DTC Solution Code]()
