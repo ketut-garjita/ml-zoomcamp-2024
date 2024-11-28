@@ -56,3 +56,16 @@ _Machine Learning Zoomcamp 2024 Training_
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/main/homework/homework-06.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw05)
   - [DTC Solution Code]()
+
+### Module 7 : Midterm Project
+- [source](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/projects.md)
+- [Project Repository](https://github.com/ketut-garjita/stock-prediction)
+
+### Module 8 : Neural Networks and Deep Learning
+- [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/08-deep-learning)
+- [Hands-on Learning]()
+- Homework
+  - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/08-deep-learning/homework.md)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/main/homework/homework-08.ipynb)
+  - [DTC Solution]()
+  - [DTC Solution Code]()
