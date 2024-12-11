@@ -46,7 +46,7 @@ _Machine Learning Zoomcamp 2024 Training_
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/05-deployment/homework.md)
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/e02ccd84cab9ae614478ccc9421d58aedb635987/homework/homework-05.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw05)
-  - [DTC Solution Code]()
+  - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2024/05-deployment/homework)
 
 ### Module 6 : Decision Trees and Ensemble Learning
 - [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/06-trees)
@@ -55,7 +55,7 @@ _Machine Learning Zoomcamp 2024 Training_
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/06-trees/homework.md)
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/main/homework/homework-06.ipynb)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw05)
-  - [DTC Solution Code]()
+  - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/06-trees/homework.ipynb)
 
 ### Module 7 : Midterm Project
 - [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/projects.md)
@@ -76,5 +76,5 @@ _Machine Learning Zoomcamp 2024 Training_
 - Homework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/b6dda07cdfc7b50bbeb784c197f09178bcfede6b/cohorts/2024/09-serverless/homework.md)
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/tree/main/homework/homework-09)
-  - [DTC Solution]()
+  - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw09)
   - [DTC Solution Code]()
