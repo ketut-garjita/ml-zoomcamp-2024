@@ -67,5 +67,14 @@ _Machine Learning Zoomcamp 2024 Training_
 - Homework
   - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/08-deep-learning/homework.md)
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/blob/main/homework/homework-08.ipynb)
+  - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw08)
+  - [DTC Solution Code](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/08-deep-learning/homework_8.ipynb)
+
+### Module 9 : Serverless Deep Learning
+- [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/09-serverless)
+- [Hands-on Learning]()
+- Homework
+  - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/b6dda07cdfc7b50bbeb784c197f09178bcfede6b/cohorts/2024/09-serverless/homework.md)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/tree/main/homework/homework-09)
   - [DTC Solution]()
   - [DTC Solution Code]()
