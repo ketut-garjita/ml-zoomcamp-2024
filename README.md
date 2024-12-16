@@ -78,3 +78,13 @@ _Machine Learning Zoomcamp 2024 Training_
   - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/tree/main/homework/homework-09)
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw09)
   - [DTC Solution Code]()
+
+### Module 10 : Kubernetes and TensorFlow Serving
+- [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/10-kubernetes)
+- [Hands-on Learning]()
+- Homework
+  - [Questions](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/10-kubernetes/homework.md)
+  - [My Solution Code](https://github.com/ketut-garjita/ml-zoomcamp-2024/tree/main/homework/homework-10)
+  - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw10)
+  - [DTC Solution Code]()
+    
