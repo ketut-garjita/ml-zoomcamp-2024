@@ -88,4 +88,5 @@ _Machine Learning Zoomcamp 2024 Training_
   - [DTC Solution](https://courses.datatalks.club/ml-zoomcamp-2024/homework/hw10)
   - [DTC Solution Code]()
     
-### [Capstone 1](
+### [Capstone 1](https://github.com/ketut-garjita/caltech-101-classification-model)
+
