@@ -59,7 +59,7 @@ _Machine Learning Zoomcamp 2024 Training_
 
 ### Module 7 : Midterm Project
 - [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/cohorts/2024/projects.md)
-- [Project Repository: stock-prediction](https://github.com/ketut-garjita/stock-prediction)
+- [Project Repository (stock-prediction)](https://github.com/ketut-garjita/stock-prediction)
 
 ### Module 8 : Neural Networks and Deep Learning
 - [Source](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/bd0c3f53ced068fd4cc3c19c789b6558b56b0721/08-deep-learning)
